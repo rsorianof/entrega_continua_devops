@@ -6,6 +6,7 @@ Organization: UNIR
 import os
 import sys
 
+# Archivo words.txt creado e inicializado con palabras por Abraham Ortiz
 DEFAULT_FILENAME = "words.txt"
 DEFAULT_DUPLICATES = False
 
